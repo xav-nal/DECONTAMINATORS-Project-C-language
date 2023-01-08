@@ -1,0 +1,14 @@
+# another simple correct file for Draw mode
+# number of robots
+1			
+	 # robot 1
+	 0  0 0					
+FIN_LISTE
+
+# number of particules
+2				
+    # particule 1
+	1 2 -2  2		
+	# particule 2
+	1 2  2 -2		
+FIN_LISTE
